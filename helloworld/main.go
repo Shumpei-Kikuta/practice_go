@@ -1,4 +1,4 @@
-package main // main means executle file
+package main // main means executable file
 
 import "fmt" // gain access to the another package
 
